@@ -1,7 +1,1 @@
-django
-gunicorn
-flask 
-werkzeug
-Pillow
-numpy
-torch
+flask
