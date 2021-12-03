@@ -1,1 +1,7 @@
-Flask==1.1.1
+django
+gunicorn
+flask 
+werkzeug
+Pillow
+numpy
+torch
